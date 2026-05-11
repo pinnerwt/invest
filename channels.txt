@@ -1,0 +1,7 @@
+# YouTube channels to process. One per line.
+# Format: @handle  OR  https://www.youtube.com/@handle
+# Lines starting with '#' are ignored.
+# Add more channels below.
+
+@tiabtc
+@RTAFinance
