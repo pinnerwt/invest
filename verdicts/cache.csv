@@ -1,0 +1,178 @@
+ticker,name,regime,sub_industry,sub_tags,transition_direction,note
+2603,長榮,cyclical,貨櫃航運,,,
+2609,陽明,cyclical,貨櫃航運,,,
+2615,萬海,cyclical,貨櫃航運,,,
+2606,裕民,cyclical,散裝航運,,,
+2637,慧洋-KY,cyclical,散裝航運,,,
+5608,四維航,cyclical,散裝航運,,,
+2617,台航,cyclical,油輪,,,
+2002,中鋼,cyclical,鋼鐵,,,
+2014,中鴻,cyclical,鋼鐵,,,
+2027,大成鋼,cyclical,鋼鐵,,,
+2029,盛餘,cyclical,鋼鐵,,,
+2059,川湖,cyclical,鋼鐵,,precision
+2069,運錩,cyclical,鋼鐵,,,
+2008,高興昌,cyclical,不鏽鋼/特鋼,,,
+2010,春源,cyclical,不鏽鋼/特鋼,,,
+2031,新光鋼,cyclical,不鏽鋼/特鋼,,,
+2032,新鋼,cyclical,不鏽鋼/特鋼,,,
+2408,南亞科,cyclical,DRAM,,,
+3260,威剛,cyclical,DRAM,,,
+2451,創見,cyclical,NAND/記憶體模組,,,
+8299,群聯,cyclical,NAND/記憶體模組,,,
+5289,宜鼎,cyclical,NAND/記憶體模組,,,
+2409,友達,cyclical,面板,,,
+3481,群創,cyclical,面板,,,
+6116,彩晶,cyclical,面板,,,
+3576,聯合再生,cyclical,太陽能,,,
+6443,元晶,cyclical,太陽能,,,payout gate 通常 fail
+1301,台塑,cyclical,石化,,,
+1303,南亞,cyclical,石化,,,本業 cyclical 但跨足電子有 stabilization
+1326,台化,cyclical,石化,,,
+6505,台塑化,cyclical,石化,,,
+1304,台聚,cyclical,石化,,,
+1310,台苯,cyclical,石化,,,
+2009,第一銅,cyclical,銅/銅箔,,,
+1102,亞泥,cyclical,水泥,,,
+1110,東泥,cyclical,水泥,,,
+1409,新纖,cyclical,紡織原料,,,PTA/MEG
+1414,東和,cyclical,紡織原料,,,PTA/MEG
+1402,遠東新,cyclical,紡織原料,,,PTA/MEG
+2610,華航,cyclical,航空,,,
+2618,長榮航,cyclical,航空,,,
+2630,星宇,cyclical,航空,,,2023-09 上市 insufficient_history 至 2028+
+2327,國巨,cyclical,MLCC/被動元件,quality_cyclical,,
+2492,華新科,cyclical,MLCC/被動元件,,,payout gate 通常 fail
+1904,正隆,cyclical,造紙/紙漿,,,大型工紙 + 文化用紙
+1909,榮成,cyclical,造紙/紙漿,,,工紙 2022-24 連虧 + 2024 配息歸零 effective fail
+8112,至上,cyclical,IC 通路 - 記憶體代理,,,89% 三星代理 等同 DRAM/NAND proxy
+9914,美利達,cyclical,自行車,,,
+9921,巨大,cyclical,自行車,,,borderline secular
+3037,欣興,cyclical,ABF 載板/PCB,,,
+6213,聯茂,cyclical,ABF 載板/PCB,,,
+8046,南電,cyclical,ABF 載板/PCB,,,
+2367,燿華,cyclical,ABF 載板/PCB,,,
+5347,世界先進,cyclical,矽晶圓,quality_cyclical,,
+6488,環球晶,cyclical,矽晶圓,quality_cyclical,,
+1474,弘裕,cyclical,化纖/染整,,,
+1463,強盛,cyclical,化纖/染整,,,
+4533,協易機,cyclical,工具機,,,
+4543,萬在,cyclical,工具機,,,
+1583,程泰,cyclical,工具機,,,
+1530,亞崴,cyclical,工具機,,,
+2104,國際中橡,cyclical,塑膠/橡膠,,,
+1802,台玻,cyclical,玻璃,,,
+2376,技嘉,cyclical,板卡/顯卡,,,混合 AI server + PC peripheral 振幅 6.89x
+2106,建大,cyclical,輪胎,,,replacement-tire + 全球輪胎 capex cycle
+1612,宏泰電工,cyclical,電線電纜,,,payout 33% Stage 2 fail
+1605,華新,cyclical,電線電纜,,,hybrid 不鏽鋼+電纜 payout 33-37% Stage 2 fail
+2542,興富發,cyclical,建設,,,
+2548,華固,cyclical,建設,,,borderline payout-strong
+2545,皇翔,cyclical,建設,,,lumpy revenue 5 年滾動振幅可能誤判
+1808,潤隆,cyclical,建設,,,純建設小型；注意 1808 ≠ 潤泰新 9945
+2012,春雨,cyclical,緊固件/螺絲,,,振幅 3.6x cyclical_lite payout 41% fail
+6605,帝寶,cyclical,車用零件-AM,,,車燈 AM 雙寡占 振幅 5.3x 2-of-3 quality
+6269,台郡,cyclical,PCB 軟板 (iPhone FPC),,,Apple 70%+ 2-of-3 quality
+8261,富鼎,cyclical,MOSFET/功率半導體,,,Stage 2 payout pass 但 gap -82% + supply 大規模
+2330,台積電,secular_grower,,,,晶圓代工龍頭
+3008,大立光,secular_grower,,,,光學鏡頭高階獨佔
+2454,聯發科,secular_grower,,,,5G/AI SoC 多角化
+3661,世芯-KY,secular_grower,,,,ASIC 設計服務 AI 受益
+2891,中信金,secular_grower,,,,金融股 secular + 配息穩定
+2882,國泰金,secular_grower,,,,金融股 secular
+2884,玉山金,secular_grower,,,,金融股 secular
+5269,祥碩,secular_grower,,,,USB controller IC 連續成長
+3034,聯詠,secular_grower,,,,DDIC + TDDI 半 secular 振幅 3.3x
+8358,金居,secular_grower,,,,AI server CCL / 銅箔升級
+6274,台燿,secular_grower,,,,AI server CCL / 銅箔升級
+1503,士電,secular_grower,,,,重電 / AI capex secular_now
+3036,文曄,secular_grower,,,,AI 半導體通路紅利 振幅 < 5x
+3702,大聯大,secular_grower,,,,AI 半導體通路紅利 振幅 < 5x
+2393,億光,secular_grower,,,,LED 已轉車用 + 不可見光 transformation
+3017,奇鋐,secular_grower,,,,AI server 液冷 design-in
+3324,雙鴻,secular_grower,,,,AI server 液冷 design-in
+6196,帆宣,secular_grower,,,,半導體廠務 multi-year AI capex
+2316,楠梓電,secular_grower,,cyclical_transition,upgrade,AI HPC HDI 轉型 + payout 不足
+3711,日月光投控,secular_grower,,,,AI 先進封裝 LEAP $3.2B 2026 倍增
+2356,英業達,secular_grower,,,,AI server lift
+1215,卜蜂,secular_grower,,,,食品垂直整合 階梯上升
+1210,大成,secular_grower,,,,下游品牌通路整合 振幅 2.2x secular_tilt borderline
+3044,健鼎,secular_grower,,,,AI server PCB 紅利
+4958,臻鼎-KY,secular_grower,,,,iPhone 載板 + AI 載板 secular_tilt
+8349,恒耀,secular_grower,,cyclical_transition,upgrade,高階扣件專案化 振幅 2.5x
+1504,東元,secular_grower,,,,重電 / AI DC 馬達 secular_now
+1514,亞力,secular_grower,,,,配電 pure-play 訂單看到 2029
+6223,旺矽,secular_grower,,,,探針卡 HBM/CoWoS 鎖單
+6510,中華精測,secular_grower,,,,HPC 探針卡 振幅 ~2.5x
+1476,儒鴻,secular_grower,,,,機能布料垂直整合 + Nike/Lululemon
+1477,聚陽,secular_grower,,,,成衣 ODM 多元客戶 mature
+3023,信邦,secular_grower,,,,工控+醫療+AI server 多元
+2308,台達電,secular_grower,,,,電源+AI DC+EV 多元
+2317,鴻海,secular_grower,,,,AI server pure-play transformation
+2382,廣達,secular_grower,,,,AI server ODM pure-play
+8210,勤誠,secular_grower,,,,AI server 機殼 pure-play
+2345,智邦,secular_grower,,,,AI 800G→1.6T 白牌交換器 hyperscaler 直供
+6669,緯穎,secular_grower,,,,AI server ODM Meta+MSFT 直供
+4977,眾達-KY,secular_grower,,cyclical_transition,upward,CPO/矽光子轉型 Broadcom 51.2T 合作
+4915,致伸,secular_grower,,,,AI DC power + 醫療 hybrid secular_tilt 振幅 2.7x
+6275,元山,secular_grower,,,,AI server fan ramp
+6271,同欣電,secular_grower,,cyclical_transition,upward,CIS 車用 ADAS 紅利主導
+6789,采鈺,secular_grower,,cyclical_transition,upward,TSMC 73% 子公司 wafer-level color filter / Metalens / CPO 矽光子 P/E ~150x
+8027,鈦昇,secular_grower,,cyclical_transition,upward,LIDE / TGV 玻璃基板 / FOPLP 先進封裝設備 2024-25 連虧 P/E ~150x+
+1216,統一,defensive,,,,食品通路
+2912,統一超,defensive,,,,零售
+9904,寶成,defensive,,,,鞋類 OEM 已成熟
+1907,永豐餘,defensive,,defensive_hybrid,,紙業本業 + 元太 51%持股 + 永豐金 12%持股 + 工業 4.0 服務
+1101,台泥,defensive,,defensive_hybrid,,儲能 NHOA + Molicel 電池 + 海外水泥多元化稀釋本業
+2412,中華電,defensive,,,,電信
+3045,台灣大,defensive,,,,電信
+4904,遠傳,defensive,,,,電信
+9917,中保科,defensive,,,,保全
+9933,中鼎,defensive,,,,工程服務
+2107,厚生,defensive,,,,橡膠+地產 hybrid 防禦混業
+2607,榮運,defensive,,,,forwarder / 集散站 業務多元振幅 < 2x
+6239,力成,defensive,,,,memory packaging contract-stabilized 振幅 1.55x
+6147,頎邦,defensive,,,,DDIC bumping 非 DRAM proxy 振幅 2.41x
+2324,仁寶,defensive,,,,PC ODM mature 36 年連配
+1722,台肥,defensive,,defensive_hybrid,,化肥政府凍漲 + 化工 + 中東 JFC 投資收益 + 不動產租金
+1232,大統益,defensive,,,,食用油 / 黃豆油 連配 31 年 振幅 1.7x
+2105,正新,defensive,,,,替換胎 mature 振幅 3.8x
+5007,三星,defensive,,,,緊固件殖利率股 振幅 1.86x 連配 8 年
+5706,鳳凰,defensive,,,,旅遊批售 mature 連配 26 年
+2727,王品,defensive,,,,餐飲連鎖 mature COVID 為 distress 非 cycle
+2353,宏碁,defensive,,,,PC 品牌 mature COVID 為 distress 非 cycle
+2354,鴻準,defensive,,,,機殼 mature + AI 散熱 transition borderline
+1726,永記,defensive,,,,塗料龍頭連配 27+ 年
+1717,長興,defensive,,,,樹脂+電子化學 mature defensive/secular_tilt
+1227,佳格,defensive,,,,桂格食品品牌 mature
+1219,福壽,defensive,,,,食用油/飼料/寵物食品 mature
+1234,黑松,defensive,,,,飲料 mature + asset_play hybrid tilt 觀察候選 #1
+5876,上海商銀,defensive,,,,金融股 secular/defensive
+2504,國產,defensive,,,,預拌混凝土寡占 hybrid + 不動產 + 加油站
+3596,智易,defensive,,,,寬頻 CPE Tier-1 telco ODM 振幅 1.5x 仁寶子公司
+6285,啟碁,defensive,,,,網通+車用+SATCOM 多元振幅 3.6x 緯創子公司
+2392,正崴,defensive,,,,Foxconn 衛星 hybrid + 聯合再生持股 + EV charger
+6446,藥華藥,unclassifiable,,,,生技單品 無 cyclical 結構
+3035,智原,unclassifiable,,,,ASIC design service 無 commodity cycle
+3105,穩懋,unclassifiable,,,,GaAs foundry 偏 secular product mix
+8086,宏捷科,unclassifiable,,,,GaAs 代工
+2208,台船,unclassifiable,,,,造船週期極長+不發股利
+2061,風青,unclassifiable,,,,電線業且已虧損
+1432,大魯閣,unclassifiable,,,,已轉休閒娛樂+投控
+2375,凱美,unclassifiable,,,,原智寶合併後存續公司 業務組合不純
+1611,中電,unclassifiable,,,,微利混業 配息率長期 > 100% 拿老本
+6153,嘉聯益,unclassifiable,,,,連 5 年虧損 + 配息歸零 PCB 軟板 effective payout fail
+2731,雄獅,unclassifiable,,,,post-COVID distress 振幅非 cycle
+2231,為升,unclassifiable,,cyclical_transition,downward,TPMS 滲透飽和 → secular_decay destination
+4426,利勤,unclassifiable,,,,機能布料連虧 distress 非 cycle
+1218,泰山,unclassifiable,,,,派系經營權爭奪 + one-off 處分主導 EPS
+1711,永光,unclassifiable,,,,特化品連虧 cyclical_transition borderline 振幅 < 3x
+1451,年興,unclassifiable,,cyclical_transition,downward,成衣 OEM 連虧 → asset_play destination 候 越南廠土地 NAV 觀察中
+5483,中美晶,unclassifiable,,,,hybrid_holding_company 環球晶 49% + 5347 持股 母公司 EPS 為投資收益認列
+1903,士紙,asset_play,,,,士林廠土地 本業已停業
+2102,泰豐,asset_play,,,,中壢廠 230 億 NAV 輪胎本業虧損 + 配息歸零 ≥ 3 年
+2371,大同,asset_play,,,,47 萬坪全台土地 NAV > 3000 億 重電本業 hybrid EPS lumpy 由資產處分驅動
+4523,永彰,asset_play,,,,桃園觀音土地賣國泰人壽 ~20 億處分利益 ≈ 全市值 本業電氣設備連虧 4 年 + 配息歸零 7+ 年
+2456,奇力新,delisted,,,,2022-01-05 併入 2327 國巨
+2448,晶電,delisted,,,,2021-01-06 併入 3714 富采
+2311,日月光,delisted,,,,2018-04-30 併入 3711 日月光投控
